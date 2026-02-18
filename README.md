@@ -4,6 +4,9 @@ A lightweight command-line application for managing your daily tasks directly fr
 
 This tool allows you to create, update, delete, and track tasks with different statuses all stored locally in a JSON file.
 
+`project URL: https://github.com/Gilugali/task-tracker-cli `
+
+
 # Features
 
 - Add new tasks

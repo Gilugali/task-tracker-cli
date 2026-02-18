@@ -8,7 +8,7 @@ This tool allows you to create, update, delete, and track tasks with different s
 
 Repository URL:
 
-https://github.com/your-username/task-cli
+https://github.com/Gilugali/task-tracker-cli
 
 # Features
 
